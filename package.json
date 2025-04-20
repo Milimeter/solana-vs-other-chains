@@ -1,0 +1,32 @@
+{
+  "name": "solana-vs-other-chains",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Milimeter/solana-vs-other-chains.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Milimeter/solana-vs-other-chains/issues"
+  },
+  "homepage": "https://github.com/Milimeter/solana-vs-other-chains#readme",
+  "dependencies": {
+    "@aptos-labs/ts-sdk": "^1.38.0",
+    "@mysten/sui": "^1.28.0",
+    "@polkadot/keyring": "^13.4.4",
+    "@polkadot/util-crypto": "^13.4.4",
+    "@solana/web3.js": "^1.98.0",
+    "algosdk": "^3.2.0",
+    "bip32": "^5.0.0-rc.0",
+    "bip39": "^3.1.0",
+    "bitcoinjs-lib": "^6.1.7",
+    "near-api-js": "^5.1.1",
+    "viem": "^2.27.2"
+  }
+}
