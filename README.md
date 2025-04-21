@@ -15,7 +15,7 @@ This repo explores that question—**one module at a time**, with working code e
 ## 🧠 Must-Read Before Diving In
 
 Before diving into the code, I *highly* recommend reading this article:  
-**👉 [Understanding Elliptic Curve Digital Signature Algorithm (ECDSA, EdDSA, etc.)](https://2finance.medium.com/understanding-elliptic-curve-digital-signature-algorithm-ecdsa-secp256k1-and-eddsa-curve25519-56ff82fc4f74)**
+**👉 [Understanding Elliptic Curve Digital Signature Algorithm (ECDSA, EdDSA, etc.)](https://2finance.medium.com/understanding-elliptic-curve-digital-signature-algorithm-ecdsa-secp256k1-and-eddsa-curve25519-56ff82fc4f74) **
 
 It gives essential context on **cryptographic key generation**, helping you understand **why each chain behaves the way it does** under the hood.
 
