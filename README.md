@@ -119,12 +119,3 @@ MIT © 2025
 
 Made with ☕ and many blockchain SDKs 😅
 ```
-
----
-
-Let me know if you want:
-- A better **banner or emoji scheme**
-- A rewritten summary for **each chain**
-- A visual flowchart or badge integrations
-
-Once the next module like *Import wallet* is ready, I can update this for you too.
